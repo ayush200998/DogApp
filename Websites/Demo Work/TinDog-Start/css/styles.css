@@ -1,0 +1,134 @@
+#mob-img
+{
+   margin-top:15px;
+   width: 60%;
+   margin-left: 30px;
+
+}
+.image-upper{
+    text-align: center;
+}
+
+#title
+{
+    background-color: rgb(49, 79, 97);
+    font-family: montserrat-black;
+}
+
+h1{
+    font-family: montserrat-black;
+    font-size:3rem;
+    line-height: 1.5;
+    padding-bottom: 5rem;
+}
+h2{
+    font-family:montserrat-black;
+    font-size:3rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-weight: bold;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+p{
+    color: #8f8f8f;
+}
+.container-fluid{
+    padding: 5% 15%;
+}
+
+.download-button{
+    margin: 5% 3% 3% 0;
+}
+    
+/* Features section */
+    
+#features{
+  padding : 8% 16%;
+  background-color: #ffff;
+  
+}
+
+.features-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color:rgb(49, 79, 97);
+    margin-bottom: 5px;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+/* Testimonial section */
+
+#testimonials{
+    padding: 8% 16%;
+    text-align: center;
+    background-color:  rgb(49, 79, 97)
+}
+
+.testimonial-image{
+    width:20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* press section */
+
+ #press{
+     background-color:   rgb(49, 79, 97);
+     padding-bottom: 20px;
+     text-align: center;
+ }
+
+ .image-logo{
+     width: 15%;
+     margin: 20px 50px 20px;
+ }
+
+ /* Pricing */
+  
+  .for-card{
+      padding: 5% 10%;
+  }
+
+  .for-column{
+      padding : 0% 5%;
+  }
+
+  .price-head{
+      text-align: center;
+      margin-top: 30px;
+  }
+   
+  .my-header{
+      text-align: center;
+  }
+  .my-body{
+    text-align: center;
+  }
+
+  /* Call to action */
+
+  #cta{
+       text-align: center;
+       background-color:  rgb(49, 79, 97);
+       padding: 8% 16%;
+  }
+  .my-butt{
+      margin: 0% 2%;
+      margin-bottom: 20px;
+      color: #ffff;
+  }
+
+  /* Footer */
+  #footer{
+      text-align: center;
+      margin-top: 10px;
+  }
